@@ -1,0 +1,19 @@
+{
+  "name": "till-payments/till-payments-woocommerce",
+  "description": "",
+  "type": "wordpress-plugin",
+  "license": "",
+  "require": {
+    "php": ">=7.2.5",
+    "psr/log": "^1.1",
+    "guzzlehttp/guzzle":  "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TillPayments\\Client\\": "./classes/client/"
+    }
+  },
+  "config": {
+    "vendor-dir": "classes/vendor"
+  }
+}

@@ -1,0 +1,9 @@
+*** Till Payments Gateway Change Log ***
+
+
+2024-10-08- version 1.10.4
+
+* version bump 1.10.3 to 1.10.4 for client and payment gateway.
+
+2024-10-04- version 1.10.3
+* Remove check for undeclared merchant id key password for Apple Pay.
