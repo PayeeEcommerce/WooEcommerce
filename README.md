@@ -1,6 +1,6 @@
-#  Till Payments For Woocommerce
+#  Payee Payments For Woocommerce
 
-Contributors: Till Payments, Payee Eftpos Ecommerce
+Contributors: Payee Eftpos Ecommerce
 Description: Take paymewnts in Australia
 Tags: Credit Card, e-commerce, payment, processing, checkout\
 Requires Wordpress: 4.9\
